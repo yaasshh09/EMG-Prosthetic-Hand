@@ -1,1 +1,1 @@
-# EMP-Prosthetic-Hand
+# EMG-Prosthetic-Hand

@@ -15,15 +15,15 @@ Demo: [link to video -- to be added on project completion, target 10 September 2
 ---
 ## Table of contents
 
-- [System Overview](#System_Overview)
-- [Signal Chain](#Signal_Chain)
+- [System Overview](#System-Overview)
+- [Signal Chain](#Signal-Chain)
 - [Hardware](#Hardware)
-- [Firmware architecture](#Firmware_architecture)
-- [ML pipeline](#ML_pipeline)
-- [Electrode placement](#Electrode_placement)
+- [Firmware architecture](#Firmware-architecture)
+- [ML pipeline](#ML-pipeline)
+- [Electrode placement](#Electrode-placement)
 - [Repo structure](#repo-structure)
 - [Build sequence](#build-sequence)
-- [Key references To Learn From](#Key_references_To_Learn_From)
+- [Key references To Learn From](#Key-references-To-Learn-From)
 - [Results](#Results)
 ---
 ## System Overview
@@ -353,5 +353,8 @@ Skin prep: alcohol wipe, apply conductive gel under each pad. Target skin impeda
 | Print settings | PLA, 30% infill, 3 perimeters, 0.2 mm layers |
 | Servo model | SG90 (~2.5 kg/cm stall torque, 180 deg) |
 | Project start | 7 April 2026 |
+| Target completion | 7 September 2026 |
+
+
 | Target completion | 7 September 2026 |
 

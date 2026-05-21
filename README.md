@@ -1,6 +1,6 @@
 # Budget Bionic Hand
 
-**15-DOF EMG-controlled prosthetic hand. Total cost under $55. Built from zero electronics knowledge.**
+**15-DOF EMG-controlled prosthetic hand. Total cost under $55.**
 
 ---
 
@@ -352,9 +352,3 @@ Skin prep: alcohol wipe, apply conductive gel under each pad. Target skin impeda
 | Mechanical base | InMoov open-source hand |
 | Print settings | PLA, 30% infill, 3 perimeters, 0.2 mm layers |
 | Servo model | SG90 (~2.5 kg/cm stall torque, 180 deg) |
-| Project start | 7 April 2026 |
-| Target completion | 7 September 2026 |
-
-
-| Target completion | 7 September 2026 |
-
